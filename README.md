@@ -12,9 +12,9 @@ This repository does not contain the source code of the Mesophil´s Cities mod a
 To make the code already available to the public, I decided to release the beta source code in [a separate repository](https://github.com/Quatryl23/Mesophils-Cities-beta) where everyone who really wants to (have fun trying to decrypt this code!) can have a look at the source code while this, the main repository doesn´t get flooded with unstructured, improvable code.
 
 # Gallery:
-![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_default_view_1.png)
-![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_default_view_2.png)
-![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_default_view_3.png)
+![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_portal_view_1.png)
+![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_portal_view_2.png)
+![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_portal_view_3.png)
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_2.png)
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_7.png)
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_3.png)
