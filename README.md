@@ -5,7 +5,7 @@
 This mod adds an infinite city dimension to minecraft, ready to be explored. Find a variety of different buildings with detailed interior and loot in every room in a randomly generated, giant city.
 
 # Downloads:
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/1368456?style=plastic&logo=CurseForge&logoColor=%23ff8110&label=CurseForge&color=%23ff8110)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/1368456?style=plastic&logo=CurseForge&logoColor=%23ff8110&label=CurseForge&color=%23ff8110&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fmesophils-cities)
 
 ## Note: 
 This repository does not contain the source code of the Mesophil´s Cities mod as long as it is in beta phase. I decided to split the repository because I started work on this mod without any Java knowledge by using MCreator and slowly learned as I developed, including more and more custom code. This however, lead to functional, yet very messy and unstructured code, partially Mcreator-generated,  that I´m definitely going to structure and clear up before the mod´s full release.
