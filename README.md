@@ -6,6 +6,7 @@ This mod adds an infinite city dimension to minecraft, ready to be explored. Fin
 
 # Downloads:
 ### - [**CurseForge**](https://www.curseforge.com/minecraft/mc-mods/mesophils-cities)
+### - [**Modrinth**](https://modrinth.com/mod/mesophils-cities)
 
 
 ## Note: 
