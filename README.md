@@ -23,6 +23,3 @@ To make the code already available to the public, I decided to release the beta 
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_5.png)
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_1.png)
 ![# Mesophil´s Cities](https://raw.githubusercontent.com/Quatryl23/Mesophils-Cities/main/images/screenshots/city_classic_view_6.png)
-
-# Trailer:
-<iframe width="850" height="468" src="https://www.youtube.com/embed/EkPz0Z5Yd-Q?si=ScF36IUQLibnZF6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
